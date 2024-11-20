@@ -1,3 +1,5 @@
+!(festival sales)[https://github.com/Ayush-Sharma-mastermind/SQL-Festival-Sales/blob/main/Screenshot%202024-11-20%20115830.png]
+
 Festival Electronics Sale Analysis
 
 Performance Insights for Chandigarh’s E-commerce Market
